@@ -1,0 +1,13 @@
+name = "Simple Shops"
+filename = "simpleshops-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6da213f138d70bcaf06b6d4723b4c7fb852b5d18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7529617
+project-id = 517272

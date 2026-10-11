@@ -1,0 +1,13 @@
+name = "AmbientSounds 6"
+filename = "AmbientSounds_FORGE_v5.3.9_mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6e8cc99ed6eec855e1481b6da82dd41901739e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5335397
+project-id = 254284

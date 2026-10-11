@@ -1,0 +1,20 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 11, 2026, 11:39:02 AM
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- securitycraft:fake_lava
+- securitycraft:flowing_fake_lava
+
+#forge:experience
+- sophisticatedcore:xp_still
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- securitycraft:fake_water
+- securitycraft:flowing_fake_water
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?

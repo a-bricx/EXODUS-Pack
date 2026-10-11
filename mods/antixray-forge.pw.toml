@@ -1,0 +1,13 @@
+name = "AntiXray ((Neo)Forge)"
+filename = "anti-xray-1.2.2-Forge-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6259624b12bbb36a277956953c22cfb499880bbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3779077
+project-id = 560511

@@ -1,0 +1,13 @@
+name = "FTB Library (NeoForge)"
+filename = "ftb-library-forge-1802.3.12-build.726.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "835e86ec6bd222896fef5201251c682536a85f3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8232166
+project-id = 404465
