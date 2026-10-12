@@ -1,2 +1,0 @@
-EXODUS 1.0.0
-Prueba de actualización automática mediante Packwiz.
